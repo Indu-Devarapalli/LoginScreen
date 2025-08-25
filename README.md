@@ -11,7 +11,7 @@ A modern login screen built using Jetpack Compose in Kotlin, with email and pass
 
 * Email validation (must be in format: example@domain.com)
 
-  * ** Secure password validation **:
+  ***Secure password validation**:
 
 * Length between 8–15 characters
 
