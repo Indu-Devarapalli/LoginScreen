@@ -30,3 +30,6 @@ A modern login screen built using Jetpack Compose in Kotlin, with email and pass
 * Social login buttons (Google, Facebook)
 
 * Sign Up prompt
+
+ ## Demo Video
+ https://github.com/user-attachments/assets/f4d3dd7c-e2eb-418a-a636-ef11582c30e7
